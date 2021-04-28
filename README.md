@@ -1,6 +1,21 @@
 **HELLO THERE. I am Charlie Yip 1155158681**
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # :wave: The Basics of GitHub  (AIST2602 Project: Milestone 2)
 
 ## 🤓 Course overview and learning outcomes 
