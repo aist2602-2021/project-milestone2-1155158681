@@ -1,6 +1,6 @@
 **Good things to learn about GitHub!**
 
-One thing about Workshop 6:
+One thing about Workshop 6: (**RESOLVED**)
 *Why did my code gave >100% confidence??*
 The code is included in the repository.
 I typed out the code in the slides, and added lots of (probably too much) layers to it.
